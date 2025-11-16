@@ -1,4 +1,4 @@
-# Waterlily Survey Application
+# Survey Application
 
 A complete health survey web application that helps collect important information about people's health, background, and financial situation. This application has two main parts: a user-friendly interface (frontend) built with React + TailwindCSS and a server (backend) built with Node.js + Express.js for handling logic and MySQL for data storage.
 
